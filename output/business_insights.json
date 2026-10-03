@@ -1,0 +1,29 @@
+{
+    "revenue": {
+        "highest_revenue_month": "March 2014",
+        "highest_revenue": 7217531.0932,
+        "highest_profit_month": "May 2014",
+        "highest_profit": 792473.5587
+    },
+    "customers": {
+        "highest_value_customer": "Jon Yang",
+        "highest_customer_spending": 8248.99,
+        "average_customer_spending": 7816.442
+    },
+    "products": {
+        "highest_revenue_product": "Mountain-200 Black, 38",
+        "highest_revenue_product_revenue": 4400592.8004,
+        "highest_profit_product": "Mountain-200 Black, 42",
+        "highest_profit_product_profit": 674216.5787,
+        "lowest_profit_product": "Road-650 Red, 44",
+        "lowest_profit_product_profit": -153696.1167,
+        "highest_revenue_category": "Bikes",
+        "highest_revenue_category_revenue": 94651172.7197
+    },
+    "regions": {
+        "highest_revenue_region": "North America",
+        "highest_revenue": 62997590.721,
+        "highest_profit_region": "Pacific",
+        "highest_profit": 3434255.3785
+    }
+}
